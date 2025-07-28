@@ -15,8 +15,7 @@ A simple and responsive weather web application that shows real-time weather inf
 ---
 
 ## 🌐 Live Demo
-
-> *(If hosted, add a live demo link here)*  
+  
 👉 [Live Demo](https://kikanimeetwedhar.netlify.app/) 
 
 ---
